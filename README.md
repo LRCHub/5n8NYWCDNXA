@@ -1,0 +1,42 @@
+# 92914 – Starlight
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I got no time
+I got nowhere to go
+Saw you in the clouds
+Found you
+Looking at this tide
+Found you on the right side
+All of a sudden
+There were you
+There you are
+There you are
+There you are
+There you are
+I miss the sunshine
+I can't see sunrise
+Like we're out of time
+The sun goes down
+The sun goes down
+The sun goes down
+Looking at this tide
+Found you on the right side
+All of a sudden
+There were you
+There you are
+There you are
+There you are
+There you are
+I'm coming back to you
+I'm coming back to you
+I'm coming back to you
+I'm coming back to you
+I'm coming back to you
+I'm coming back to you
+The sun goes down
+The sun goes down
+The sun goes down
+The sun goes down
+```
